@@ -1,0 +1,23 @@
+Dependencias: 
+npm i
+    @babel/core
+    @babel/preset-env
+    @babel/preset-react,
+    babel-loader
+    html-loader
+    html-webpack-plugin
+    react
+    react-dom
+    webpack
+    webpack-cli
+    webpack-dev-server
+    react-router-dom
+    @babel/plugin-transform-runtime
+
+npm i -D
+    mini-css-extract-plugin 
+    css-loader 
+    style-loader 
+    sass-loader
+    sass
+
